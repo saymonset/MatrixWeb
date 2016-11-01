@@ -1,0 +1,7 @@
+		Data1	Data2	Program1	Program2
+Alice		r	r	x		x
+Bob		r	r	E		x
+Carol		r	E	E		x
+David		r	E	w x		E
+Program1	r	r	E		w x
+Program2	r w	E	E		E
